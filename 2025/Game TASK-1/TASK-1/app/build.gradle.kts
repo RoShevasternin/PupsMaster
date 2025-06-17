@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.smartdev.incorpfounds"
+    namespace = "com.fond.buduchego"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.smartdev.incorpfounds"
+        applicationId = "com.fond.buduchego"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

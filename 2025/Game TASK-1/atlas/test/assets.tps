@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>6</int>
         <key>texturePackerVersion</key>
-        <string>7.6.0</string>
+        <string>7.7.0</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -124,7 +124,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../SmartFunds/assets/atlas/test.atlas</filename>
+                <filename>../../TASK-1/app/src/main/assets/atlas/test.atlas</filename>
             </struct>
         </map>
         <key>multiPackMode</key>
