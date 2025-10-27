@@ -161,9 +161,9 @@ class GDXGame(val activity: MainActivity) : AdvancedGame() {
                 log("Result: campaign = $campaign |" +
                         "afAd = $afAd | " +
                         "media_source = $media | " +
+                        "afId = $afId | " +
                         "externalId = $externalId | " +
-                        "externalId = $externalId | " +
-                        "afSiteId = $afSiteId | " +
+                        "af_siteid = $afSiteId | " +
                         "appfMap = $appfMap")
 
                 val link = "$sma?" +
